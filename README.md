@@ -1,6 +1,6 @@
-@@ -1,2 +1,37 @@
-# discoveringcs
-Supplements to Discovering Computer Science, Second Edition, by Jessen Havill
+# Discovering Computer Science: Interdisciplinary Problems, Principles, and Python Programming
+Supplementary materials
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/havillj/discoveringcs/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
