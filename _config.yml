@@ -2,5 +2,5 @@ theme: jekyll-theme-minimal
 title: Discovering Computer Science
 description: "Supplementary materials for Discovering Computer Science: Interdisciplinary Projects, Principles, and Python Programming, second edition"
 #logo: [Location of the logo]
-show_downloads: "false"
+show_downloads: false
 #google_analytics: 
