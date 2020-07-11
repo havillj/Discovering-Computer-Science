@@ -1,8 +1,12 @@
 ## 1  How To Solve It
 
+### Exercises
+
+1.3.22 [mad lib program](madlib.py)
+
 ### Further discovery
 
-<a href="http://archive.cra.org/CRN/issues/9301.pdf"><em>SIGACT trying to get children excited about CS</em></a> (p. 7)
+* <a href="http://archive.cra.org/CRN/issues/9301.pdf"><em>SIGACT trying to get children excited about CS</em></a> (p. 7)
 
 <a href="http://www.coriolis.eu.org/">Coriolis</a> operational oceanography
 
