@@ -1,4 +1,9 @@
-#!/usr/bin/env python3
+"""
+Mad lib program
+
+Discovering Computer Science, Second Edition
+Jessen Havill
+"""
 
 adj1 = input('Adjective: ')
 noun1 = input('Noun: ')
