@@ -30,7 +30,7 @@
 
 * 7.7.3 [Bicycle collision data](collisions_cyclists.txt)
 
-* 7.7.4 [Breast cancer data](breast-cancer-wisconsin.csv) | [additional information](breast-cancer-wisconsin.names.txt)
+* 7.7.4 [Breast cancer data](breast-cancer-wisconsin.csv) | [additional information](breast-cancer-wisconsin.names)
 
 * 7.7.5 [T-shirt measurements](measurements.py)
 
