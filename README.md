@@ -1,5 +1,5 @@
-# Discovering Computer Science: 
-## Interdisciplinary Problems, Principles, and Python Programming
+# Discovering Computer Science: Interdisciplinary Problems, Principles, and Python Programming
+## Second Edition
 ### Supplementary materials
 
 [1  How to Solve It](1_how_to_solve_it)
@@ -25,3 +25,5 @@
 [11  Networks](11_networks)
 
 [12 Object-oriented Design](12_object_oriented_design)
+
+[13 Appendices](Appendices)
