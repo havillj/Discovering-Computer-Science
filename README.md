@@ -2,6 +2,8 @@
 ## Second Edition
 ### Supplementary materials
 
+[Publisher website](https://www.routledge.com/Discovering-Computer-Science-Interdisciplinary-Problems-Principles-and/Havill/p/book/9780367472498)
+
 [1  How to Solve It](1_how_to_solve_it)
 
 [2  Visualizing Abstraction](2_visualizing_abstraction)
