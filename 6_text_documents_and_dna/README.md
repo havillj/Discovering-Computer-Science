@@ -12,6 +12,8 @@
 
 * [A Tale of Two Cities](ataleoftwocities.txt) ([original](http://www.gutenberg.org/files/98/98-0.txt))
 
+* [Walden](walden.txt) by Henry David Thoreau ([original](http://www.gutenberg.org/files/205/205-0.txt))
+
 ### Section 6.6
 
 * [Michelle Obama's convention speech (2008)](michelle_obama.txt)
