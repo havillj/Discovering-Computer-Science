@@ -14,4 +14,4 @@
 
 * Turing award
 
-* [ACM Code of Ethics and Professional Conduct](https://www.acm. org/code-of-ethics)
+* [ACM Code of Ethics and Professional Conduct](https://www.acm.org/code-of-ethics)
