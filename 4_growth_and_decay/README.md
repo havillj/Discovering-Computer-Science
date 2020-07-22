@@ -2,9 +2,9 @@
 
 ### Online Sections
 
-* [4.4 Continuous Models](4.4.pdf)
+* [4.4 Continuous Models](../optional_sections/4.4.pdf)
 
-* [4.5 Numerical Analysis](4.5.pdf)
+* [4.5 Numerical Analysis](../optional_sections/4.5.pdf)
 
 ### Projects
 
